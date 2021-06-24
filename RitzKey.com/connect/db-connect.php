@@ -1,7 +1,5 @@
 <?php
-//mysql_connect('localhost','root','');
-
-mysql_connect('localhost','abstrag6_Abstrac','Wonder1!');
+mysql_connect('localhost','******','******');
 
 function cleanInput($input){
 	
